@@ -1,5 +1,8 @@
 # 🚀 조회 성능 개선하기
 
+### [쿼리 튜닝 미션 수행 내용 정리](https://github.com/Gomding/sql-tuning/blob/gomding/A_QUERY_PRACTICE.md) 
+### [인덱스 튜닝 미션 수행 내용 정리](https://github.com/Gomding/sql-tuning/blob/gomding/B_INDEX_DESIGN.md)
+
 ## A. 쿼리 연습
 
 ### * 실습환경 세팅
